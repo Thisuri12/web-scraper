@@ -37,9 +37,9 @@ BRAVE_API_KEY=your_actual_api_key_here
 🖥️ How to Run-> python main.py
 
 Use the GUI to:
--Upload your Excel file with Company and Region columns
--Select a country
--Start scraping and save results to a new Excel file
+- Upload your Excel file with Company and Region columns
+- Select a country
+- Start scraping and save results to a new Excel file
 
 📁 Input Format
 Your Excel file should have:
