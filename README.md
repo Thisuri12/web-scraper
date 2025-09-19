@@ -30,7 +30,7 @@ source venv/bin/activate # On Windows: venv\Scripts\activate
 
 pip install -r requirements.txt
 
-###4. Add your Brave API key to .env (This file is ignored by Git using .gitignore)
+### 4. Add your Brave API key to .env (This file is ignored by Git using .gitignore)
 Create a .env file in the root directory:
 BRAVE_API_KEY=your_actual_api_key_here
 
