@@ -34,16 +34,6 @@ pip install -r requirements.txt
 Create a .env file in the root directory:
 BRAVE_API_KEY=your_actual_api_key_here
 
-📦 File Structure
-web-scraper/
-├── main.py # Entry point for GUI
-├── gui.py # Tkinter interface
-├── scraper.py # Core scraping logic
-├── utils.py # Helper functions (e.g., email validation)
-├── .env # Secret API key (not tracked by Git)
-├── .gitignore # Prevents secrets and cache files from being committed
-└── requirements.txt # Python dependencies
-
 🖥️ How to Run-> python main.py
 
 Use the GUI to:
