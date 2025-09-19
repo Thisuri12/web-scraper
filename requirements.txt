@@ -1,0 +1,6 @@
+pandas
+openpyxl
+beautifulsoup4
+httpx
+lxml
+tkinter

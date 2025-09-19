@@ -1,0 +1,12 @@
+# Secret files
+.env
+config.json
+*.key
+*.pem
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
